@@ -40,7 +40,7 @@ The model follows a standard encoder-decoder architecture:
 *   scikit-learn
 *   tqdm
 
-pip install tensorflow numpy matplotlib nltk scikit-learn tqdm```
+pip install -r requirements.txt
 
 ## Usage
 
